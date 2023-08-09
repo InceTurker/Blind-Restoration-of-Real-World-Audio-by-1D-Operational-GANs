@@ -76,208 +76,174 @@ data compositions of both datasets are given in Table 1.
   
 ## Results
 
-![30](https://user-images.githubusercontent.com/117115792/209517363-7611fab5-fa90-4df9-9693-c0a449a5c48f.png)
-
-Clean Signal:
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/31cff137-7147-438b-b74a-3d03d0e040dd
-
-Corrupted Signal:
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/faf2ab6b-8397-4a0c-a908-4aae4398bcaf
-
-Restored Signal:
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/e1c6052a-bce8-44aa-9111-f42c50fa94a7
-
-
-![500](https://user-images.githubusercontent.com/117115792/209517375-f5a1cc89-c20e-483e-99d5-48b00602c550.png)
-
-Clean Signal:
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/dc45c71e-ae4f-468d-a301-882fc12e5bb9
-
-Corrupted Signal:
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/015e3fa1-e942-4047-95b3-d12f0cdf0c6b
-
-Restored Signal:
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/72356f6c-7215-4ef8-9638-ad368e2c7edc
 
 ![743](https://user-images.githubusercontent.com/117115792/209517383-60b4229a-aeae-48f8-8cc5-2910f020ae3b.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/9b93bbe5-b252-4999-a211-7a638592d76d
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/9d1ac819-31e1-4203-9017-699dcfb9bd7b
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/20db1a5b-7fc4-45f7-a870-747212d55d3c
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/ce6ccf12-1ae9-45c0-9dff-d8050a14784a
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/2f382204-7595-46e1-bb58-95a43bb270f9
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/5cad6181-eb4d-4dc8-a099-3d4bf9add372
 
 ![752](https://user-images.githubusercontent.com/117115792/209517392-1d430f84-4adc-4206-94cb-cf281135ce7b.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/d56d9f2b-e16e-4769-b39e-6316ccac3064
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/ecfa7334-194a-40dd-b179-d689d7e25a6d
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/81a4fe0c-f01e-413b-b796-48093585f0bc
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/ac602293-05a7-41bc-b8ec-5998355f9ed3
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/f5dd13b4-617d-4b82-8fb5-03376915d569
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/9b045afb-4616-4fd8-a5dd-c58b0fd9244d
 
 ![963](https://user-images.githubusercontent.com/117115792/209517402-17eae4b8-f9ed-4467-aa20-9766376eef48.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/b33af3be-ea94-4696-be81-a706822ff876
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/83656ab3-e3e7-4b0a-b519-2283c2c2627a
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/0caad840-f8db-42a0-b6d4-08181088c30c
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/18c64a16-6571-45a3-88c9-f77afbb78400
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/5cd1ea80-c98d-44d7-9cb6-ce1cfc298e8a
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/456cd41f-9a2e-4f05-ab25-bc5c91f4b52e
 
 ![988](https://user-images.githubusercontent.com/117115792/209517414-a68d633f-e111-49a9-a1d5-2114ae74ef75.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/aa0ca3f0-6752-429c-b9c1-f806af4737a1
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/82af0d4f-0db1-4db4-ac9e-1cde878ed7ce
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/f1915072-0706-4a4e-adc1-00206cda52d2
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/0c91eab8-7c8a-499b-aaff-15511b02c13f
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/0a7d8e47-698f-4e12-ad8d-33d2ea0c5139
-
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/a71cc5a5-f4b5-4b50-a240-bd5019dd55c5
 
 ![1000](https://user-images.githubusercontent.com/117115792/209517422-11ee15d6-15de-407b-a8c5-db4d6aed2e7f.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/b6d06d80-9458-416a-91d4-14f4437065db
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/93c04dc4-7f12-4a68-99ed-722cecaed6f0
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/de968cf6-bd3e-4f8d-bc58-56aa0fea0a28
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/65c1e2f2-36a0-412a-b197-a55995c79c14
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/eaae6795-75b9-404d-9d41-87c560b66054
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/3439ad13-be86-4d67-a71d-9c86b4672d66
 
 ![1007](https://user-images.githubusercontent.com/117115792/209517429-2bd68315-37d0-4cfd-bc89-5bfe2cef5dcd.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/21ea1c71-e173-4a8e-b8a0-a21b23933527
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/e52bb93b-fde0-4e14-896e-eb37be3bb689
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/d39c1d74-47ec-4828-84e9-6fb61a4bb6b0
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/813402e2-e90d-49dd-b5c1-c006f33095c0
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/4984dd55-a06d-4141-88e5-7edde9738990
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/52da2a1a-4463-4d40-88cf-b6d8756953ac
 
 ![1008](https://user-images.githubusercontent.com/117115792/209517440-ac2d9068-4b20-4ddd-adb6-735edd9af2cf.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/4e41ad4f-124f-42b3-ab6f-bc08d07df561
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/5945949f-79bb-4976-84e5-028e40baccb8
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/5719a077-0312-4efb-916f-a85019dd27ef
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/b71de7a4-8bdb-44e3-b071-1e9900b98f37
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/bd60fe19-5733-422d-8154-e3a266713864
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/fa690e95-a90f-4f72-a9de-3dee7ab685ee
 
 ![1009](https://user-images.githubusercontent.com/117115792/209517444-1562c27b-24cc-436a-b8b7-88cbb5f33b70.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/86fc6d8d-804d-4d46-a894-5ae4445674fd
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/c196874f-bc84-4f85-a7aa-9a5c5e6648b4
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/508fa5fe-389f-4596-a1f7-bb2599fc81a4
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/eb818033-a107-492e-ac4c-1ec0025256d4
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/2ecb795c-ddfa-42da-b620-2e5402afd4b2
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/f0d6b6c6-c6e9-4701-8c8b-e999c2578547
 
 ![1027](https://user-images.githubusercontent.com/117115792/209517448-7494655d-e45b-43cc-85f3-21c1d66ecae1.png)
 
 Clean Signal:
 
-
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/72db2989-7623-47b0-8d00-255c112b9037
-
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/b254b8d0-c6ae-4cd8-8452-229a6f5b0744
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/e5a2c49f-e361-4fd3-91df-f4f3414177a6
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/f2c02f54-30a5-4957-9cbf-b239562903a5
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/0a7fcc94-3845-4d6d-b1d1-e35206da5422
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/a9241767-3eee-4844-997c-d5bf42608424
 
 ![1034](https://user-images.githubusercontent.com/117115792/209517457-6de66000-d116-4a0b-b9e8-1ffba4ce5483.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/80057de6-2246-4d9a-ba33-0f096520a07f
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/395de25b-47a3-4497-bc54-c04b2b75fd36
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/8efa3df6-43f4-4c15-9159-c4d6c83d6521
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/9936a857-0bf0-4789-a276-77d94535ad7c
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/c4587a0a-a920-4f03-a01d-dcf775368975
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/ba659da6-9521-4913-87da-9a0494b57192
 
 ![1265](https://user-images.githubusercontent.com/117115792/209517470-31c87daf-70ce-494f-b0fc-ff6eb90e1782.png)
 
 Clean Signal:
 
-
-
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/a0fd4cc3-9ed0-4e6f-9304-6f594d8630b3
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/5eddb17c-4a21-49ca-a18c-2e799e3085ce
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/c28b71f3-0d1c-413c-89c8-361c54cac246
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/4f531804-94f3-45d4-ba97-cd4bdee07bef
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/2ef29006-8b1c-4695-9df9-b8f2d5ac12e8
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/b974137f-8fbb-4a02-98bf-cbd765369bef
 
 ![1284](https://user-images.githubusercontent.com/117115792/209517474-e37ac407-ffd6-49a5-b942-83ba7d113ab5.png)
 
 Clean Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/dbb21bef-ff98-4c3b-9b8d-90028f7d29b0
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/1ec98c52-570a-422f-b26b-03229c95341a
 
 Corrupted Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/2602b9c5-565f-4576-9430-38d988ce8689
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/f324f27e-2114-4772-867c-845bafbd286c
 
 Restored Signal:
 
-https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/3445e386-465a-4bf0-a406-595e233a9c9e
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/eb424221-344f-403f-aa69-7c61ce205efb
 
 ![7](https://user-images.githubusercontent.com/117115792/209510044-2fde7e8c-9151-4b79-bc05-202a3ee8b9c2.png)
 
@@ -308,6 +274,35 @@ https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operat
 Restored Signal:
 
 https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/1fe9ec58-a5a0-4767-912f-73f35f9025e9
+
+![30](https://user-images.githubusercontent.com/117115792/209517363-7611fab5-fa90-4df9-9693-c0a449a5c48f.png)
+
+Clean Signal:
+
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/d700a0a2-0891-478b-a004-06ade020da92
+
+Corrupted Signal:
+
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/2e3d9554-6ae4-4109-93cb-bd3924746dbd
+
+Restored Signal:
+
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/23d41632-4c5d-4f9d-ad51-77fc1aaef461
+
+![500](https://user-images.githubusercontent.com/117115792/209517375-f5a1cc89-c20e-483e-99d5-48b00602c550.png)
+
+Clean Signal:
+
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/5d4ed27b-153d-4ddd-bf95-519c7449ce30
+
+Corrupted Signal:
+
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/97d20b1e-423d-4ef7-8197-0fa54ea99374
+
+Restored Signal:
+
+https://github.com/InceTurker/Blind-Restoration-of-Real-World-Audio-by-1D-Operational-GANs/assets/117115792/b50c03c0-0ff5-4059-b9cf-5244377fcd38
+
 
 ## Citation
 If you find this project useful, we would be grateful if you cite this paper：
